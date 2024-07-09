@@ -1,0 +1,16 @@
+
+<pre>Version 2.0.1 - 02-03-2023)
+##Updated:
+- React v17.0.2 to v18.x.x
+- Bootstrap v5.0.1 to 5.2.3
+- Others plugin updated
+</pre>
+
+====================================
+
+<pre>Version 2.0.0 - June 05, 2021)
+##Updated:
+- React v15.x.x
+- Bootstrap 5.x.x
+- Remove Eject Files
+</pre>
